@@ -1,6 +1,6 @@
 # wslcwd
 
-Get the current path for the Windows Subsystem for Linux.
+Get the current path optimized for the Windows Subsystem for Linux.
 
 Replaces
 
